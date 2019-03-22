@@ -4,7 +4,8 @@ A simple GUI for drawing abstract line drawings based on sine waves and bitwise 
 
 exported svg examples:
 
-example.png 	
+![example.png](https://github.com/jrparadis/linegeneratorgui/blob/master/example.png)
+	
 example2.png 	
 example3.png
 
