@@ -12,7 +12,7 @@ exported svg examples:
 
 plotted examples on 11x15 mixed media paper and dying sharpie, taken with a terrible camera:
 
-![example plotted.jpg - example.png on paper]('https://github.com/jrparadis/linegeneratorgui/blob/master/example%20plotted.jpg')
+![example plotted.jpg - example.png on paper]('https://raw.githubusercontent.com/jrparadis/linegeneratorgui/master/example%20plotted.jpg')
 
 ![test plot.jpg - a simple test, the plotter was not level so it has some errors, but that's why I like this stuff, it often glitches out in interesting ways.]('https://github.com/jrparadis/linegeneratorgui/blob/master/test%20plot.jpg')
 
